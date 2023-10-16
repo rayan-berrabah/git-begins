@@ -1,0 +1,14 @@
+# Commandes Git
+
+# Cloner un référentiel
+git clone <URL_du_referentiel>
+
+# Les 3 commandes de push
+git add .
+git commit -m "Mon premier commit"
+git push origin master
+
+# La commande de pull
+
+git pull
+
